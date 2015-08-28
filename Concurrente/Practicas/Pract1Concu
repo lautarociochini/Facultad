@@ -1,0 +1,28 @@
+1)
+	La opción a es verdadera, puede tomar el valor 188
+
+	(Si se ejecuta el proceso 3, corta luego de x*8, se ejecuta el proceso 1 nuevamente, asigna x=y(92) y corta, ejecuta el proceso 2, x=92+1 (93), ejecuta el codigo restante del proceso 3 (x=93*2=186) y ejecuta lo restante del proceso 1 (186+2 =188). 
+
+	La opción b también es verdadera, puede tomar el valor 95
+	
+	(Si se ejecuta el proceso 3, luego el 1 y finalmente el 3) 23*4 = 92+2 = 94+1 = 95.
+
+	La opción c es verdadera, puede tomar el valor 942
+
+	(Si se ejecuta el proceso 1, luego el proceso 3 hasta x*8, corta su ejecución, se ejecuta el proceso 2
+	 y vuelve al proceso 3 nuevamente) 94*8 + 95*2 = 942.
+
+2)
+
+	La opción b es verdadera, el valor x al terminar el programa es 94.
+
+	(En caso que se ejecuten los procesos 2 y 3 antes que el 1, al finalizar la ejecución del P1 el valor
+	 de x es 94)
+
+	La opción d es verdadera, la cantidad de resultados posibles se puede calcular.
+
+
+----------------------------------------CONSULTAR----------------------------------
+
+
+
