@@ -21,7 +21,15 @@
 
 	La opción d es verdadera, la cantidad de resultados posibles se puede calcular.
 
-
+3)	Proceso X() {
+	int contador;
+	co [i= 1 to m]
+		if [v[i]==n] 
+			contador:=contador+1;
+	oc		
+	return contador;
+	}
+	
 ----------------------------------------CONSULTAR----------------------------------
 
 
